@@ -8,10 +8,6 @@ package nu.te4.config;
 import java.util.Set;
 import javax.ws.rs.core.Application;
 
-/**
- *
- * @author maxangman
- */
 @javax.ws.rs.ApplicationPath("api")
 public class ApplicationConfig extends Application {
 
